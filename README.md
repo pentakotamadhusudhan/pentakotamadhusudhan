@@ -1,5 +1,4 @@
-![Banner]([https://github.com/NDCSwift/Swift-Projects/blob/main/Screenshot%202025-09-25%20at%201.06.36%E2%80%AFPM.png?raw=true](https://gemini.google.com/share/0ecb9a4bd2b9))
-
+![Banner](images/banner.png)
 ---
 
 # 👋 Hi, I'm Madhu Pentakota  
