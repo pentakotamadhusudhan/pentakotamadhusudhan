@@ -74,7 +74,7 @@ I also have a foundation in **Data Analytics**, which helps me look beyond just 
 
 ## 🚀 Featured Projects
 
-### 🛒 [Local Baba](https://github.com/pentakotamadhusudhan/local_baba)  
+### 🛒 [Local Baba](https://github.com/pentakotamadhusudhan/local_baba_store)  
 *A Hyper-local Marketplace connecting local vendors with customers.*
 
 **Tech Stack:** ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=flat&logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
@@ -85,7 +85,7 @@ I also have a foundation in **Data Analytics**, which helps me look beyond just 
 
 ---
 
-### 🥘 [Indian Sweets Recognition](https://github.com/pentakotamadhusudhan/sweets-ml)  
+### 🥘 [Indian Sweets Recognition](https://github.com/pentakotamadhusudhan/indian_sweet_recognition-)  
 *Computer Vision project identifying traditional Indian desserts through deep learning.*
 
 **Tech Stack:** ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
@@ -99,7 +99,7 @@ I also have a foundation in **Data Analytics**, which helps me look beyond just 
 
 ---
 
-### 🤖 [Rasa AI Bot](https://github.com/pentakotamadhusudhan/rasa-bot)
+### 🤖 [Rasa AI Bot](https://github.com/pentakotamadhusudhan/rasa_bot)
 *Intelligent conversational agent for automated customer interaction.*
 
 **Tech Stack:** ![Rasa](https://img.shields.io/badge/Rasa-5A17EE?style=flat&logo=rasa&logoColor=white) ![Python](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white)
@@ -109,7 +109,7 @@ I also have a foundation in **Data Analytics**, which helps me look beyond just 
 
 ---
 
-### 🏫 [School Management System](https://github.com/pentakotamadhusudhan/school-sys)
+### 🏫 [School Management System](https://github.com/pentakotamadhusudhan/school_system_mangement)
 *Full-stack management solution for educational institutions.*
 
 **Tech Stack:** ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -119,7 +119,7 @@ I also have a foundation in **Data Analytics**, which helps me look beyond just 
 
 ---
 
-### 📊 [Data Analytics Lab](https://github.com/pentakotamadhusudhan/data-analytics)
+### 📊 [Data Analytics Lab](https://github.com/pentakotamadhusudhan/Data_analytics_learning)
 *Exploratory data analysis and predictive modeling insights.*
 
 **Tech Stack:** ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
